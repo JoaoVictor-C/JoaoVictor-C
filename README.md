@@ -1,4 +1,4 @@
-# Unleashing the Future: A Technology Enthusiast's Journey!
+# Hi 👋
 
 Greetings! 😊 Allow me to introduce myself as a passionate tech enthusiast and a dedicated student of Systems Development, currently rocking the age of 16! 👨‍💻 I'm fueled by an insatiable curiosity and an unwavering determination to push my limits, as I dive headfirst into the thrilling and ever-evolving world of technology. 💪
 
