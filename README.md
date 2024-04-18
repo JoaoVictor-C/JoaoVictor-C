@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Greetings! Allow me to introduce myself as a passionate tech enthusiast and Systems Development student at 16 years old, driven by curiosity and constantly seeking to learn new things and improve as a human being and professional. I'm right now focused on learning more about Data Science and Machine Learning, but I also have experience with Web Development.
+Greetings! Allow me to introduce myself as a passionate tech enthusiast and Systems Development student at 17 years old, driven by curiosity and constantly seeking to learn new things and improve as a human being and professional. I'm right now focused on learning more about Data Science and Machine Learning, but I also have experience with Web Development.
 </p>
 
 <p align="left">
