@@ -7,7 +7,7 @@ Greetings! Allow me to introduce myself as a passionate tech enthusiast and Syst
 </p>
 
 <p align="left">
-  If you want to talk to me, don't hesitate to send me a message: fffjv2006@gmail.com or joaovictorsilva@aluno.senai.br.
+  If you want to talk to me, don't hesitate to send me a message: joaoc_silva22@hotmail.com
 </p>
 
 <hr>
