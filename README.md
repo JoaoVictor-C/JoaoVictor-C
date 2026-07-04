@@ -1,23 +1,19 @@
-# Hi 👋
+# João Victor Corrêa da Silva
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+Full stack developer — C#/.NET · React/TypeScript · SQL. Software Engineering student (ITE) and Systems Development technician (SENAI). I build complete web applications and ship them to production. English C1.
 
-<p align="left"> 
-Greetings! Allow me to introduce myself as a passionate tech enthusiast and Systems Development student at 19 years old, driven by curiosity and constantly seeking to learn new things and improve as a human being and professional. I'm right now focused on learning more about Data Science and Machine Learning, but I also have experience with Web Development.
-</p>
+## Featured projects
 
-<p align="left">
-  If you want to talk to me, don't hesitate to send me a message: joaoc_silva22@hotmail.com
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Eventos SENAI](https://github.com/JoaoVictor-C/eventos-senai) | Event platform adopted by SENAI — 300+ tickets sold and validated at a real event | React · C# · MySQL |
+| [Coup Online](https://github.com/JoaoVictor-C/Coup-Online) | Real-time multiplayer card game — rooms and synchronized game state | C#/.NET · SignalR · EF Core · React/TS |
+| [NeuralNetwork](https://github.com/JoaoVictor-C/NeuralNetwork) | Neural network built from scratch, no ML frameworks | C# |
 
-<hr>
+## Stack
 
-<p align="center">
-<img height="32" src="https://iconape.com/wp-content/png_logo_vector/c.png" alt="C#"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-<img height="32" src="https://i0.wp.com/tinkercademy.com/wp-content/uploads/2018/04/python-icon.png?ssl=1" alt="Python"/>
-<img height="32" src="http://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="Python"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/>
-</p>
+C# · .NET · ASP.NET · SignalR · Entity Framework Core · React · TypeScript · JavaScript · Redux · MySQL · PostgreSQL · MongoDB · Node.js · Python · Git
+
+## Contact
+
+joaoc_silva22@hotmail.com · [LinkedIn](https://linkedin.com/in/jv-correa-da-silva)
