@@ -16,4 +16,4 @@ C# · .NET · ASP.NET · SignalR · Entity Framework Core · React · TypeScript
 
 ## Contact
 
-joaoc_silva22@hotmail.com · [LinkedIn](https://linkedin.com/in/jv-correa-da-silva)
+joaoc_silva22@hotmail.com
